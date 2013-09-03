@@ -9,6 +9,7 @@ public class RecommenderJob {
 		System.out.println("Hello World");
 		System.out.println("Test Complete");
 		System.out.println("Test 2");
+		System.out.println("Test 3");
 	}
 
 }
