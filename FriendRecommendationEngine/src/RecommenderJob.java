@@ -8,6 +8,7 @@ public class RecommenderJob {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("Test Complete");
+		System.out.println("Test 2");
 	}
 
 }
